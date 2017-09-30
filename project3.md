@@ -85,8 +85,7 @@ class encode_scale_concat(BaseEstimator, TransformerMixIn):
   def fit (self):
    
   def transform (self):
-   
-```python
-from sklearn.base import BaseEstimator, TransformerMixIn
+ 
 ```
+
 ![image tooltip here](/images/assets/image.jpg)
