@@ -39,3 +39,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ```python
 from sklearn.base import BaseEstimator, TransformerMixIn
 ```
+![image tooltip here](/images/assets/image.jpg)
